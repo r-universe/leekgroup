@@ -23,3 +23,8 @@
 	url = https://github.com/leekgroup/regionreport
 	shallow = true
 	registered = true
+[submodule "swfdr"]
+	path = swfdr
+	url = https://github.com/leekgroup/swfdr
+	shallow = true
+	registered = true
