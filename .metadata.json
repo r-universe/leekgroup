@@ -6,9 +6,6 @@
     "package": "derfinderPlot"
   },
   {
-    "package": "regionReport"
-  },
-  {
-    "package": "swfdr"
+    "package": "recount"
   }
 ]
