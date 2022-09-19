@@ -4,5 +4,14 @@
   },
   {
     "package": "derfinderPlot"
+  },
+  {
+    "package": "recount"
+  },
+  {
+    "package": "regionReport"
+  },
+  {
+    "package": "swfdr"
   }
 ]
