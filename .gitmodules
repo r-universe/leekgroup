@@ -13,8 +13,3 @@
 	url = https://github.com/leekgroup/derfinderplot
 	shallow = true
 	registered = true
-[submodule "recount"]
-	path = recount
-	url = https://github.com/leekgroup/recount
-	shallow = true
-	registered = true
