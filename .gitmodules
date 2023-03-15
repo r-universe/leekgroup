@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "swfdr"]
+	path = swfdr
+	url = https://github.com/leekgroup/swfdr
+	shallow = true
+	registered = true
 [submodule "derfinderHelper"]
 	path = derfinderHelper
 	url = https://github.com/leekgroup/derfinderhelper
@@ -13,18 +18,13 @@
 	url = https://github.com/leekgroup/derfinderplot
 	shallow = true
 	registered = true
-[submodule "recount"]
-	path = recount
-	url = https://github.com/leekgroup/recount
-	shallow = true
-	registered = true
 [submodule "regionReport"]
 	path = regionReport
 	url = https://github.com/leekgroup/regionreport
 	shallow = true
 	registered = true
-[submodule "swfdr"]
-	path = swfdr
-	url = https://github.com/leekgroup/swfdr
+[submodule "recount"]
+	path = recount
+	url = https://github.com/leekgroup/recount
 	shallow = true
 	registered = true
