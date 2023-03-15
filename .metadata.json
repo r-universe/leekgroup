@@ -1,17 +1,17 @@
 [
   {
-    "package": "swfdr"
-  },
-  {
     "package": "derfinderHelper"
   },
   {
     "package": "derfinderPlot"
   },
   {
+    "package": "recount"
+  },
+  {
     "package": "regionReport"
   },
   {
-    "package": "recount"
+    "package": "swfdr"
   }
 ]
